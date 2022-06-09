@@ -1,0 +1,2 @@
+# UniversiteDiyagram
+Üniversite Yönetim Diyagramı
